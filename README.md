@@ -1,1 +1,1 @@
-# visaocomputacional
+# Repository to improve my knowledge in Computer Vision and related areas
